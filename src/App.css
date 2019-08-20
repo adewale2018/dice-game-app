@@ -1,0 +1,35 @@
+.App {
+  text-align: center;
+}
+.App h1 {
+  color: #ffc600;
+  letter-spacing: 3px;
+  border-bottom: 5px solid #fff;
+  font-family: 'Poiret One', cursive;
+  text-align: center;
+}
+.App .fa-gamepad {
+  color: #fff;
+  font-size: 2em;
+}
+.left {
+  margin-right: 1.5em;
+}
+.right {
+  margin-left: 1.5em;
+}
+
+@media (max-width: 576px) {
+  .right {
+    display: none;
+  }
+  .left {
+    margin-right: .5em;
+  }
+  h1 {
+    letter-spacing: .5px;
+  }
+  .fa-gamepad {
+    font-size: .5em;
+  }
+ }

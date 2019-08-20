@@ -1,0 +1,32 @@
+.RollDice {
+  display: flex;
+  flex-flow: column nowrap;
+  min-height: 80vh;
+}
+.RollDice-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.RollDice button{
+  outline: none;
+  align-self: center;
+  padding: 1em 0em;
+  width: 10em;
+  font-size: 1.2em;
+  color: #fff;
+  background-color:  #ffc600;
+  border: 2px solid #fff;
+  border-radius: 10px;
+  margin-top: 3em;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+  letter-spacing: 2px;
+}
+.RollDice button:hover {
+  cursor: pointer;
+  background-color: #5a62be;
+}
