@@ -1,5 +1,5 @@
-### `APP NAME: dice-game-app`
-Check it out here: [https://react-dice-game.netlify.com/](Dice-Game-App)
+### `APP NAME: React-Dice_App`
+Check it out here: [https://react-dice-app.netlify.com/](React-Dice-App)
 
 ### Free to clone it and add more features
 In the project directory, you can run:

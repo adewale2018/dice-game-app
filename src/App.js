@@ -5,7 +5,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <h1><i className="fas fa-gamepad left"></i>DICE GAME APP<i className="fas fa-gamepad right"></i></h1>
+      <h1><i className="fas fa-gamepad left"></i>DICE APP<i className="fas fa-gamepad right"></i></h1>
       <RollDice />
     </div>
   );
